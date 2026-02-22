@@ -1,6 +1,5 @@
-//Write a program that calculate the sample interest and compound interest.The principal amount, rate of interest and time are entered through the keyboard.
+//Write a program that calculate the sample interest and compound interest . The principal amount, rate of interest and time are entered through the keyboard.
 #include <stdio.h>
-#include <math.h>
 int main() {
 float principal, rate, time, simple_interest, compound_interest, amount;
     printf("\nEnter principal amount: ");
