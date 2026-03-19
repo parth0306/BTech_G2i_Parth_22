@@ -13,4 +13,5 @@ b=c;
 printf("\nValue of first number :%d",a);
 printf("\nValue of second number :%d",b);
 return 0;    
+  
 }
