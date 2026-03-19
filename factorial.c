@@ -6,7 +6,7 @@ int main() {
     scanf("%d", &n);
     printf("Factorial:\n ");
     for (i = 1; i <= n; i++) 
-    {   product=product*i;}
+    {   product=product*i; }
         printf("%d",product);
     return 0;
 }
