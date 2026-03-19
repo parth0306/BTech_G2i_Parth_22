@@ -1,4 +1,4 @@
-//write a program that accept centigrate temperature and convert it into fahrenheit.
+//write a program that accept centigrade temperature and convert it into fahrenheit.
 #include <stdio.h>
 int main()
 {
