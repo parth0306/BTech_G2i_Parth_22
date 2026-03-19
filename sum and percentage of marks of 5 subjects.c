@@ -14,5 +14,4 @@ percentage=(sum/maxmarks)*100;
 printf("sum of their marks = %f\n",sum);
 printf("percentage of their marks = %f",percentage);
 return 0;
-
 }
